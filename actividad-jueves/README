@@ -1,0 +1,4 @@
+Paso 1: Abrir tu terminal
+Paso 2: Una vez con tu terminal abierta, acceder a la carpeta donde estan los archivos. Por ejemplo: "cd workspace".
+Paso 3: Dentro de la carpeta donde contenga el codigo, en la misma terminal escribir "jupyter notebook". Esperar a que tu navegador abra el notebook.
+Paso 4: Ya una vez abierto, podemos entrar al codigo y verlo.
